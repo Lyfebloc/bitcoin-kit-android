@@ -1,0 +1,8 @@
+include ':app',             // Demo app
+        ':bitcoincore',     // Bitcoin Core
+        ':bitcoinkit',      // Bitcoin kit
+        ':dashkit',         // Dash kit
+        ':bitcoincashkit',  // Bitcoin Cash kit
+        ':litecoinkit',     // Litecoin kit
+        ':hodler',          // Hodler
+        ':tools'            // Checkpoint syncer
